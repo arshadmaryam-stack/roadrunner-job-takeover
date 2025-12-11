@@ -18,8 +18,8 @@ Upon loading the game up, the player must click space to start playing. Roadrunn
 3. Keep all files (code + assets) in the same directory.
 
 # Executing Program
-Run this to play the game:
-`python main.py`
+Run this in your terminal to play the game:
+`python roadrunnerss.py`
 
 # Authors
 * Maryam Arshad
